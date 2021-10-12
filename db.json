@@ -1,6 +1,19 @@
 {
-  "cifNo" : "001122122232",
-  "name" : "John doe",
-  "nik": "330807346786888810",
-  "address" : "Tebet Jakarta Selatan"
+  "cif" : [
+      {
+      "id" : 1,
+      "cifNo" : "001122122231",
+      "name" : "John doe",
+      "nik": "330807346786888810",
+      "address" : "Tebet Jakarta Selatan"
+      },
+     {
+      "id" : 2,
+      "cifNo" : "001122122232",
+      "name" : "Jane doe",
+      "nik": "330807346786888811",
+      "address" : "Tanjung Priok jakart Utara"
+      }
+
+  ]
 }
